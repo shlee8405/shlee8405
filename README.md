@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Aspiring Professional Programmer based in South Korea.
-ASDF
+Once I become a handy coder, I'll contribute to open-source projects!
 ## My Arsenal
 > JavaScript
 > Python
