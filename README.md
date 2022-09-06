@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi👋
 
-## Aspiring Professional Programmer based in South Korea.
-Once I become a handy coder, I'll contribute to open-source projects!
+## Noob Coder based in SouthKorea
 ## My Arsenal
 > JavaScript
 > Python
