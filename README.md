@@ -1,6 +1,6 @@
 ### Hi👋
 
-## Noob Coder based in SouthKorea
+## Programmer based in SouthKorea
 ## My Arsenal
 > JavaScript
 > Python
