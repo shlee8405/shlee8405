@@ -3,9 +3,11 @@
 ## Programmer && Open-Source Contributor based in SouthKorea
 > freeCodeCamp
 ## My Arsenal
-> JavaScript
-> Python
 > Java
+> Python
+> JavaScript
+> HTML
+> CSS
 
 <!--
 **shlee8405/shlee8405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
