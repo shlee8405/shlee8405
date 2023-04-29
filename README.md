@@ -1,6 +1,7 @@
 ### Hi👋
 
-## Programmer based in SouthKorea
+## Programmer && Open-Source Contributor based in SouthKorea
+> freeCodeCamp
 ## My Arsenal
 > JavaScript
 > Python
