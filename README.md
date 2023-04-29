@@ -1,5 +1,6 @@
-### ![Uploading SoExcited~GIF.gif…]()
-Hi👋
+### 
+
+🤓👋Hi
 
 ## Programmer && Open-Source Contributor based in SouthKorea
 > freeCodeCamp
