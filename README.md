@@ -1,5 +1,6 @@
-## Programmer && Open-Source Contributor based in SouthKorea
-> freeCodeCamp
+## Programmer & Open-Source Contributor based in SouthKorea
+> Open-Source Projects
+>> freeCodeCamp
 ## Languages
 > Java
 > Python
