@@ -1,10 +1,15 @@
-## Programmer & Open-Source Contributor based in SouthKorea
-> Open-Source Projects
+## Programmer & Open-Source Contributor
+> Projects
+>>
+> Ongoing Open-Source Projects
 >> freeCodeCamp
 ## Languages
 > Java
+>> Spring MVC
+>> Spring Boot
 > Python
 > JavaScript
+>> Node JS
 > HTML
 > CSS
 
