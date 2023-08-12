@@ -1,17 +1,16 @@
 ## Programmer & Open-Source Contributor
-> **Projects**
->
-> **Ongoing Open-Source Projects**
-> freeCodeCamp
+#### Projects
+#### Ongoing Open-Source Projects
+- freeCodeCamp
 ## Languages
-> **Java**
-> Spring MVC
-> Spring Boot
-> **Python**
-> **JavaScript**
-> Node JS
-> **HTML**
-> **CSS**
+- **Java**
+- Spring MVC
+- Spring Boot
+- **Python**
+- **JavaScript**
+- Node JS
+- **HTML**
+- **CSS**
 
 <!--
 **shlee8405/shlee8405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
