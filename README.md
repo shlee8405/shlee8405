@@ -1,10 +1,6 @@
-### 
-
-🤓👋Hi
-
 ## Programmer && Open-Source Contributor based in SouthKorea
 > freeCodeCamp
-## My Arsenal
+## Languages
 > Java
 > Python
 > JavaScript
