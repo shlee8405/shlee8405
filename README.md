@@ -1,5 +1,7 @@
 ## Programmer & Open-Source Contributor
 #### Projects
+- Personal Planner (JAVA project with integrated server/ client using Swing as GUI)
+- /Camping.do (Spring MVC project with Apache Tomcat as server deployed in AWS EC2)
 #### Ongoing Open-Source Projects
 - freeCodeCamp
 ## Languages
