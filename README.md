@@ -1,8 +1,10 @@
 ## Programmer & Open-Source Contributor
-#### Projects
+#### Finished Projects 
 - Personal Planner (JAVA project with integrated server/ client using Swing as GUI)
+#### Ongoing Projects
 - /Camping.do (Spring MVC project with Apache Tomcat as server deployed in AWS EC2)
-#### Open-Source Projects
+- SQL Maker (React, Next.js, MongoDB project)
+#### Ongoing Open-Source Projects
 - freeCodeCamp
 ## Languages
 - **Java**
