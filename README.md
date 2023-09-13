@@ -1,6 +1,7 @@
 ## Programmer & Open-Source Contributor
 #### Finished Projects 
 - Personal Planner (JAVA project with integrated server/ client using Swing as GUI)
+- Discord Alarm Bot (Python)
 #### Ongoing Projects
 - /Camping.do (Spring MVC project with Apache Tomcat as server deployed in AWS EC2)
 - SQL Maker (React, Next.js, MongoDB project)
