@@ -9,13 +9,18 @@
 - freeCodeCamp
 ## Languages
 - **Java**
-- Spring MVC
+- Spring
 - Spring Boot
 - **Python**
 - **JavaScript**
 - Node JS
+- React
+- React Native
+- Express JS
 - **HTML**
 - **CSS**
+- AWS EC2
+- AWS Lambda
 
 <!--
 **shlee8405/shlee8405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
