@@ -1,8 +1,9 @@
-# 💫About Me :
+# 🚀📱💻About Me :
 ## Programmer & Open-Source Contributor
 #### Finished Projects 
 - Personal Planner (JAVA project with integrated server/ client using Swing as GUI)
 - Discord Alarm Bot (Python)
+- Discord Server Checker (Python)
 - /Camping.do (Spring MVC project with Apache Tomcat as server deployed in AWS EC2)
 #### Ongoing Projects
 - SQL Maker (React, Next.js, MongoDB project)
